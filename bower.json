@@ -1,0 +1,13 @@
+{
+  "name": "wiki-react-firebase",
+  "description": "A live collaborative wiki",
+  "main": "server.js",
+  "authors": [
+    "Ihor Gevorkyan (1Team)"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Igor-Maf/wiki-react-firebase",
+  "dependencies": {
+    "skeleton": "^2.0.4"
+  }
+}
